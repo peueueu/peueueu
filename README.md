@@ -81,7 +81,8 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
   ![CodePen](https://img.shields.io/badge/CodePen-white?style=plastic&logo=codepen&logoColor=black)
   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=plastic&logo=Replit&logoColor=white)
 
-<a href="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true" style="margin-right: 30px;">
+<div align="center" style="display: flex; justify-content: space-around; margin-top: 4rem;">
+  <a href="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true" style="margin-right: 30px;">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true"
@@ -109,3 +110,5 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=peueueu&layout=compact&hide_progress=true&theme=maroongold&langs_count=8" />
 </picture>
 </a>
+
+</div>
