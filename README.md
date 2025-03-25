@@ -83,7 +83,7 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 4rem">
 
-<picture>
+<picture style="margin-right: 16px">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true"
     media="(prefers-color-scheme: dark)"
