@@ -96,7 +96,7 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
 </picture>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true">
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=peueueu&layout=compact&hide_progress=true&theme=maroongold&langs_count=8">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=peueueu&layout=compact&hide_progress=true&theme=maroongold&langs_count=8"
