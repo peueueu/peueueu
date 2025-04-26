@@ -82,7 +82,7 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=plastic&logo=Replit&logoColor=white)
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 4rem;">
-  <a href="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&hide_rank=true" style="display: inline-block; margin-right: 30px;">
+  <a href="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&include_all_commits=true" style="display: inline-block; margin-right: 30px;">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo"
