@@ -12,7 +12,7 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white&style=for-the-badge)
 
 **Back-End:**
 
