@@ -92,7 +92,7 @@ Hi there! I'm Peu Silva, a software engineer with a passion for crafting impactf
     srcset="https://github-readme-stats.vercel.app/api?username=peueueu&theme=catppuccin_latte&show_icons=true&locale=en&layout=logo&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=peueueu&theme=maroongold&show_icons=true&locale=en&layout=logo&include_all_commits=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=peueueu&theme=dracula&show_icons=true&locale=en&layout=logo&include_all_commits=true" />
 </picture>
 </a>
 </div>
